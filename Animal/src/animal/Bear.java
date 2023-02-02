@@ -7,7 +7,7 @@ package animal;
 
 /**
  *
- * @author Tanya chowdhary
+ * @author Tanya chowdhary, 2023
  */
 public class Bear {
     
