@@ -8,7 +8,7 @@ package animal;
 import java.util.Scanner;
 /**
  *
- * @author Tanya Chowdhary, 2023
+ * @author Tanya Chowdhary, Feb 02, 2023
  */
 public class Animal {
 
